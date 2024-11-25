@@ -1,0 +1,1 @@
+Namespace(ckpt_path='/home/zs/Code/TPVFormer_new/ckpts/tpv04_occupancy_v2.pth', frame_idx=[4509], mode=0, py_config='config/tpv04_occupancy_trt.py', save_path='out/tpv_occupancy/frames', vis_train=False, work_dir='out/tpv_occupancy')
